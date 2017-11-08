@@ -5,6 +5,7 @@ new test
 
 new分支：测试merge冲突
 主分支：测试merge冲突，选择主分支修改
-new分支
+<<<<<<
+主分支
 
 new分支：添加一行
