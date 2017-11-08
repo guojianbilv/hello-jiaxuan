@@ -4,4 +4,5 @@ new test
 
 
 new分支：测试merge冲突
-new分支：测试merge冲突，选择主分支修改
+主分支：测试merge冲突，选择主分支修改
+
